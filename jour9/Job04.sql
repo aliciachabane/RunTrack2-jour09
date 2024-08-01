@@ -1,0 +1,2 @@
+SELECT capacite
+FROM salles;
